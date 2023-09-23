@@ -1,0 +1,3 @@
+/Users/oleksandrprokopovic/CLionProjects/TetsGIT/cmake-build-debug/CMakeFiles/TetsGIT.dir
+/Users/oleksandrprokopovic/CLionProjects/TetsGIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oleksandrprokopovic/CLionProjects/TetsGIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
